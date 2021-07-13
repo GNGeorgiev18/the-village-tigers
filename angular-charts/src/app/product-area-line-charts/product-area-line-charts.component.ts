@@ -23,7 +23,7 @@ export class ProductAreaLineChartsComponent implements OnInit {
   yAxis: boolean = true;
   showYAxisLabel: boolean = true;
   showXAxisLabel: boolean = true;
-  xAxisLabel: string = 'Dates and Hours';
+  xAxisLabel: string = 'Dates';
   yAxisLabel: string = 'Progress';
   timeline: boolean = true;
 
