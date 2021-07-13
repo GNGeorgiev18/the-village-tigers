@@ -1,3 +1,13 @@
+export var productSales = [
+  {
+    "name": "reported hours",
+    "value": 36
+  }, {
+    "name": "real hours",
+    "value": 50
+  }
+];
+
 export var productSalesMulti = [
   {
     "name": "planned start date",
