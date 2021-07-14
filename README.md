@@ -17,7 +17,7 @@ Our project is designed to show charts that represent planned and real dates for
 
 <a name="documentation"></a>
 ## 3. Documentation
-* [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/aitsachev19_codingburgas_bg/EcqMGTbL4eFEqG5riUCtboUBeJtzP4SE3339c4Gt7QBQtw?rtime=zPYo38o62Ug)
+* [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/gngeorgiev18_codingburgas_bg/EbOgI4kfmdNCvQNU-6lnadYBb_v5Wqa6-OqURnM4JoUiFw)
 * [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/gngeorgiev18_codingburgas_bg/ERLFhhvr-ShEhSCp1897IgMBV2ozuxweb4uNyv6urILgKg?e=5QadEn)
 
 <a name="technologies"></a>
